@@ -1,0 +1,13 @@
+#Ignore_everything
+*
+
+#exception_rule
+!*.java
+!*.jsx
+!*.js
+!*.mjs
+!.gitignore
+!*.md
+
+!*/
+
